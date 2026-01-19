@@ -83,12 +83,14 @@ IDE Integrations
 For the formatter specifically:
 
 * There is an official `vscode extension`__
+* There is an official support within `qtcreator`__
 * Someone also created a `sublime plugin`__
 
 .. __: https://marketplace.visualstudio.com/items?itemName=cheshirekow.cmake-format
+.. __: https://doc.qt.io/qtcreator/creator-how-to-format-cmake-files.html
 .. __: https://packagecontrol.io/packages/CMakeFormat
 
-Note that for both plugins ``cmake-format`` itself must be installed
+Note that for all three plugins ``cmake-format`` itself must be installed
 separately.
 
 Pre-commit
